@@ -115,7 +115,8 @@ NGROK_HOST=https://xxxx.ngrok-free.app
    https://xxxx.ngrok-free.app
    ```
 
-![Screenshot](./Screenshot 2025-09-14 210252.png)
+<img width="1894" height="887" alt="Screenshot 2025-09-14 210252" src="https://github.com/user-attachments/assets/3f4a6782-2e37-4b95-831b-16904945c1cc" />
+
 
 
 5. Click **Save Configuration**.
