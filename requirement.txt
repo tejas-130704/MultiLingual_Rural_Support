@@ -1,0 +1,8 @@
+flask 
+twilio 
+openai
+python-dotenv
+google-generativeai 
+phidata
+edge_tts
+groq
