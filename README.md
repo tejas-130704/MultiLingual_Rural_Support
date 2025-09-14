@@ -1,4 +1,4 @@
-````markdown
+
 # 📞 AI-Powered Voice Call Service with Twilio, Flask, and Ngrok
 
 This project demonstrates how to build a Flask-based telemedicine/voice assistant service powered by **Twilio**, **Ngrok**, and AI agents (Gemini or Groq). It allows you to automatically initiate phone calls, capture speech, and play AI-generated responses.
@@ -157,5 +157,4 @@ You should receive a call on your phone, and Twilio will handle the interactive 
 
 💡 Now you’re ready to make AI-powered calls using Flask, Twilio, and Ngrok!
 
-```
 
